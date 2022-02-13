@@ -5,7 +5,7 @@ The notebooks should help a junior data scientist learn about tools that are use
 They should also help to remember common packages, commands, hints, and technques for data science. 
 I also recommed reading my weblog on  [data science](https://mohsen-mesgar.io/blog/datascience/) to learn about data science terminologies. 
 
-**Please give the repository a star on top right. Feel free to suggest how we can improve it together. Don't learn along and share it with others.**
+**Please give the repository a star on top right. Feel free to suggest how we can improve it together. Don't learn alone and share it with others.**
 
 
 # Credits
